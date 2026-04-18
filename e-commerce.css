@@ -265,7 +265,7 @@ a i.fa-cart-arrow-down {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image:url(images/sale.jpg);
+    background-image:url(sale.jpg);
   width: 100%;height:40vh;
   background-size: cover;
   background-position: center;
@@ -563,7 +563,7 @@ html, body {
 }
 /*SHOP PAGEEEEEE*/
 #page-header{
-    background-image: url(images/0.jpg);
+    background-image: url(0.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -650,7 +650,7 @@ html, body {
 }
 
 #page-header.blog-header{
-    background-image: url("images/5c.jpg"); /* apni image ka path */
+    background-image: url("5c.jpg"); /* apni image ka path */
     height: 40vh;
     width: 100%;
     background-size: cover;
@@ -741,7 +741,7 @@ html, body {
     z-index: 2;   /* 👈 IMPORTANT */
 }
 #page-header.about-header{
-    background-image: url(images/cloudy.jpg);
+    background-image: url(cloudy.jpg);
 }
 #about-head{
     display:flex;
@@ -771,7 +771,7 @@ html, body {
     border-radius: 20px;
 }
 #page-header.contact-header{
-    background-image: url(images/us.jpg);
+    background-image: url(us.jpg);
 }
 
 #contact-details{
@@ -869,7 +869,7 @@ padding-top: 25px;
 }
 /* ===== PAGE HEADER ===== */
 #page-header.cart-header{
-    background-image: url("images/cloudy.jpg");
+    background-image: url("cloudy.jpg");
     height: 250px;
     background-size: cover;
     background-position: center;
